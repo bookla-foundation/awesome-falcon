@@ -1,2 +1,2 @@
 # awesome-falcon
-Awesome things about Faclon Framework
+Awesome things about Falcon Framework
